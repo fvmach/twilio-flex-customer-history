@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@twilio-paste/core": "^15.3.1",
-    "@twilio-paste/icons": "^9.2.0",
+    "@twilio-paste/icons": "^9.4.3",
     "@twilio/flex-plugin": "7.1.0",
     "prop-types": "^15.7.2",
     "react": "17.0.2",
